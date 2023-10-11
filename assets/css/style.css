@@ -153,3 +153,10 @@ button:hover {
     }
     
 }
+
+@media (min-width: 1440px) {
+   .card {
+        margin-top: 10%;
+        transform: scale(1.2);
+    }
+}
